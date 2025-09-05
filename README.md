@@ -1,4 +1,4 @@
-#Vigenère
+# Vigenère
 
 ¿Que hicimos?
 Desarrollamos un algoritmo que cifra textos usando el cifrado Vigenère, tal como se vio en clase, a su vez, también se investigó y se utilizó el método 
